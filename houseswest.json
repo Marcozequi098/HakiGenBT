@@ -1,5 +1,7 @@
 {
   "kingdoms": [
+
+   "Lannister":
     {
       "name": "Lannister",
       "gold": 650000,
@@ -12,6 +14,7 @@
       "CavP": 1000,
       "Guard": 500
     },
+   "Stark":
     {
       "name": "Stark",
       "gold": 450000,
@@ -24,6 +27,7 @@
       "CavP": 600,
       "Guard": 300
     },
+   "Targaryen":
     {
       "name": "Targaryen",
       "gold": 800000,
