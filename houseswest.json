@@ -1,0 +1,40 @@
+{
+  "kingdoms": [
+    {
+      "name": "Lannister",
+      "gold": 650000,
+      "InfL": 1800,
+      "InfP": 3000,
+      "Lan": 2000,
+      "Arq": 1600,
+      "Best": 1800,
+      "CavL": 1000,
+      "CavP": 1000,
+      "Guard": 500
+    },
+    {
+      "name": "Stark",
+      "gold": 450000,
+      "InfL": 1200,
+      "InfP": 2500,
+      "Lan": 1500,
+      "Arq": 2000,
+      "Best": 1000,
+      "CavL": 800,
+      "CavP": 600,
+      "Guard": 300
+    },
+    {
+      "name": "Targaryen",
+      "gold": 800000,
+      "InfL": 2000,
+      "InfP": 1500,
+      "Lan": 1000,
+      "Arq": 1200,
+      "Best": 2500,
+      "CavL": 1800,
+      "CavP": 1500,
+      "Guard": 700
+    }
+  ]
+}
