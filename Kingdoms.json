@@ -1,0 +1,28 @@
+{
+  "kingdoms": {
+    "Lannister": {
+      "name": "Lannister",
+      "gold": 650000,
+      "InfL": 1800,
+      "InfP": 3000,
+      "Lan": 2000,
+      "Arq": 1600,
+      "Best": 1800,
+      "CavL": 1000,
+      "CavP": 1000,
+      "Guard": 500
+    },
+    "Stark": {
+      "name": "Stark",
+      "gold": 450000,
+      "InfL": 1200,
+      "InfP": 2500,
+      "Lan": 1500,
+      "Arq": 2000,
+      "Best": 1000,
+      "CavL": 800,
+      "CavP": 600,
+      "Guard": 300
+    }
+  }
+}
